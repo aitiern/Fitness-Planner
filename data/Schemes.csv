@@ -1,0 +1,6 @@
+prog_id,name,weeks,scheme_type,prescription,notes
+1,Linear Volume → Intensity (4w),4,Reps-Sets,W1: 4x12 @ 65% / RPE7; W2: 4x10 @ 70% / RPE7; W3: 5x8 @ 72.5% / RPE7-8; W4: 5x6 @ 75% / RPE8,Use for compounds; deload after W4 or repeat with +2.5% load.
+2,Double Progression (Rep Range),0,Rep Range,Target 3x8–12; add load when all sets hit upper bound,Good for DB/machines; progress 1–2 reps/session.
+3,Beginner Linear,6,Sets x 5,Start 3x5; add 2.5–5 lb each session if bar speed good,Rotate when stalls 2 sessions in a row.
+4,RPE Wave (3w),3,RPE,W1: 3x5 @ RPE7; W2: 3x5 @ RPE8; W3: 3x5 @ RPE6 (reload),Repeat cycle raising loads ~2.5% after each wave.
+5,Conditioning Intervals,0,Time Intervals,10 rounds: 30s hard / 90s easy,Scale to modality; maintain nasal breathing on easy.
